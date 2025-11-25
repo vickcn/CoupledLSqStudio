@@ -1,0 +1,7 @@
+*.log
+*.txt
+*.json
+
+*tmp*\
+*test*\
+issues*\
